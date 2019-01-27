@@ -18,3 +18,16 @@ Hands on
 
 
 ### Quantitative Accomplishments
+<ul>
+		<li>Thing 1</li>
+		<li>Thing 2</li>
+		<li>Thing 3</li>
+	</ul>
+	<br>
+	<h3>Qualitative Features</h3>
+	<ul>
+		<li>Thing 1</li>
+		<li>Thing 2</li>
+		<li>Thing 3</li>
+	</ul>
+	<br>
