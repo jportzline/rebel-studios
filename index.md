@@ -8,3 +8,10 @@
 
 ### My Learning Style
 
+Hands on
+
+20% Auditory
+
+30% Visual
+
+50% Hands on
