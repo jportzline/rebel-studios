@@ -31,3 +31,13 @@ Hands on
 		<li>Thing 3</li>
 	</ul>
 	<br>
+### Whole Brain Paragraph
+
+### Golden Circle
+
+### Elevator Pitch
+
+
+## Weekly Reflections
+
+### Week 1
