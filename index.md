@@ -2,5 +2,5 @@
 
 ### My Links
 
-<a href="https://www.linkedin.com/in/jamesportzline"/>Linkedin</a>
+<a href="https://www.linkedin.com/in/jamesportzline"/>Linkedin</a><br>
 <a href="https://twitter.com/JamesPortzline?lang=en"/>Twitter</a>
