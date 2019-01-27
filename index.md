@@ -12,6 +12,6 @@ Hands on
 
 20% Auditory
 
-30% Visual
-
 50% Hands on
+
+30% Visual
