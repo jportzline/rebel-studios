@@ -15,3 +15,6 @@ Hands on
 50% Hands on
 
 30% Visual
+
+
+### Quantitative Accomplishments
