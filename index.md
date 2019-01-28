@@ -23,7 +23,7 @@ Hands on
 		<li>Developed 10 websites</li>
 	</ul>
 	<br>
-	<h3>Qualitative Features</h3>
+ <h3>Qualitative Features</h3>
 	<ul>
 		<li>Self-starter</li>
 		<li>Problem Solver</li>
