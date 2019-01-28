@@ -16,14 +16,14 @@ Hands on
 
 30% Visual
 
-#### Quantitative Accomplishments
+### Quantitative Accomplishments
    <ul>
 		<li>Setup and mantained 200 school desktops</li>
 		<li>Configured and deployed 90 ipads</li>
 		<li>Developed 10 websites</li>
   </ul>
 
-#### Qualitative Features
+### Qualitative Features
 <ul>
 		<li>Self-starter</li>
 		<li>Problem Solver</li>
