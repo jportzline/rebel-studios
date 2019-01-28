@@ -31,6 +31,7 @@ Music is one of my passions. Whether I’m practicing on playing on my guitar or
 
 ### Golden Circle
 
+
 ### Elevator Pitch
 
 
