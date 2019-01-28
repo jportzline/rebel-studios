@@ -16,8 +16,7 @@ Hands on
 
 30% Visual
 
-
-### Quantitative Accomplishments
+<h3>Quantitative Accomplishments</h3>
 <ul>
 		<li>Thing 1</li>
 		<li>Thing 2</li>
