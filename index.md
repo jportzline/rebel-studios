@@ -30,7 +30,7 @@ Hands on
 Music is one of my passions. Whether I’m practicing on playing on my guitar or finding new artists to listen to. Music can be used as the perfect background noise to any given situation and can set the mood. It helps me concentrate while working on a project, get into a serious gaming session, or allowing me to meditate while connecting to a spiritual plane.
 
 ### Golden Circle
-<img src="rebel-studios/Circles.png" alt="hi" class="inline"/>
+<img src="Circles.png"/>
        
 ### Elevator Pitch
 
