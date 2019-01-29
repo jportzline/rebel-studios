@@ -33,7 +33,7 @@ Music is one of my passions. Whether I’m practicing on playing on my guitar or
 <img src="Circles.png"/>
        
 ### Elevator Pitch
-
+Hello! My name James Portzline. I design graphics and websites for companies who need an online presence. Completed a website for a nutritionist who is helping people eat healthier. Do you have an online presence or website? 
 
 ## Weekly Reflections
 
