@@ -1,13 +1,14 @@
 <h1>James Portzline's Professional Development>/h1>
 <h3>Career Buddy: Judah Medina-Armstrong</h3>
-## My Links<br>
+<h2>My Links</h2>
+<br>
 <a href="https://www.linkedin.com/in/jamesportzline"/>Linkedin</a>
 <br>
 <a href="https://twitter.com/JamesPortzline?lang=en"/>Twitter</a>
 
-## Pro Dev Activities
+<h2>Pro Dev Activities</h2>
 
-### My Learning Style
+<h3>My Learning Style</h3>
 
 Hands on
 
@@ -17,8 +18,9 @@ Hands on
 
 30% Visual
 
-### Quantitative Accomplishments
-* Setup and mantained 200 school desktops
+<h3>Quantitative Accomplishments</h3>
+ <ul>
+ <ls>Setup and mantained 200 school desktops</ls>
 * Configured and deployed 90 ipads
 * Developed 10 websites
  
