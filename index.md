@@ -1,4 +1,4 @@
-<h1>James Portzline's Professional Development>/h1>
+<h1>James Portzline's Professional Development</h1>
 <h3>Career Buddy: Judah Medina-Armstrong</h3>
 <h2>My Links</h2>
 <br>
