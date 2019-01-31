@@ -25,10 +25,12 @@ Hands on
      <li>Developed 10 websites</li>
  </ul>
  
-### Qualitative Features
-* Self-starter
-* Problem Solver
-* Leader
+<h3>Qualitative Features</h3>
+   <ul>
+      <li>Self-starter</li>
+      <li>Problem Solver</li>
+      <li>Leader</li>
+   </ul>
 
 ### Whole Brain Paragraph
 Music is one of my passions. Whether I’m practicing on playing on my guitar or finding new artists to listen to. Music can be used as the perfect background noise to any given situation and can set the mood. It helps me concentrate while working on a project, get into a serious gaming session, or allowing me to meditate while connecting to a spiritual plane.
