@@ -1,5 +1,5 @@
-# James Portzline's Professional Development
-### Career Buddy: Judah Medina-Armstrong
+<h1>James Portzline's Professional Development>/h1>
+<h3>Career Buddy: Judah Medina-Armstrong</h3>
 ## My Links<br>
 <a href="https://www.linkedin.com/in/jamesportzline"/>Linkedin</a>
 <br>
