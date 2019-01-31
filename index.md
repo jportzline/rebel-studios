@@ -32,15 +32,15 @@ Hands on
       <li>Leader</li>
    </ul>
 
-### Whole Brain Paragraph
+<h3>Whole Brain Paragraph</h3>
 Music is one of my passions. Whether I’m practicing on playing on my guitar or finding new artists to listen to. Music can be used as the perfect background noise to any given situation and can set the mood. It helps me concentrate while working on a project, get into a serious gaming session, or allowing me to meditate while connecting to a spiritual plane.
 
-### Golden Circle
+<h3>Golden Circle</h3>
 <img src="Circles.png"/>
        
-### Elevator Pitch
+<h3>Elevator Pitch</h3>
 Hello! My name James Portzline. I design graphics and websites for companies who need an online presence. Completed a website for a nutritionist who is helping people eat healthier. Do you have an online presence or website? 
 
-## Weekly Reflections
+<h2>Weekly Reflections</h2>
 
-### Week 1
+<h3>Week 1</h3>
