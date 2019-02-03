@@ -46,6 +46,6 @@ Hello! My name James Portzline. I design graphics and websites for companies who
 <h3>Week 1</h3>
 My first week of boot camp has been exciting and fun. Meet 7 other people whom I will be getting to know over the 12 weeks. Four students including myself conceptualized, brainstormed, and developed a new boardgame which we are considering digitizing turning into a mobile game. Also, Rod has presented multiple projects to us for to possibly collaborate or do individually.
 
-<h3>Week 1</h3>
+<h3>Week 2</h3>
 
 
