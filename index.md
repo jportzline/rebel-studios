@@ -40,9 +40,7 @@ Music is one of my passions. Whether I’m practicing on playing on my guitar or
        
 <h3>Elevator Pitch</h3>
 Hello! My name James Portzline. I design graphics and websites for companies who need an online presence. Completed a website for a nutritionist who is helping people eat healthier. Do you have an online presence or website? 
-
-<br>
-
+ <br><br>
 <img src="2pics.png"/>
 My thoughts as to why I picked these 2 particular pictures. For the 1st pic, as I grow older and become complacent, and realize what I have learned a decade ago no longer applies to today’s demands for digital media. The advancement in the technology world whether it be the hardware and  more so tools in developing digital media will continue to evolve, and so should the skills needed as well. As for the 2nd picture, to quote an old phrase from Cervantes in Don Quixote “skies the limit”! I find myself wanting to develop and refine my current skill as well add new ones that will unlock new opportunities. 
 
