@@ -47,5 +47,7 @@ Hello! My name James Portzline. I design graphics and websites for companies who
 My first week of boot camp has been exciting and fun. Meet 7 other people whom I will be getting to know over the 12 weeks. Four students including myself conceptualized, brainstormed, and developed a new boardgame which we are considering digitizing turning into a mobile game. Also, Rod has presented multiple projects to us for to possibly collaborate or do individually.
 
 <h3>Week 2</h3>
+Second week of Deep Dive Digital Media - Ryan, Anthony and I joined to work together on the AR project for Garcia Auto Group. Had a few guest speakers such as former students (alumni – cohort 1 of DDDM) speak and present current projects they are working on. Started working with Vyond developing a commercial for my wife and I. Also, jumped into Unity to get a head start.
 
+<h3>Week 3</h3>
 
