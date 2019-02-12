@@ -51,6 +51,8 @@ My thoughts as to why I picked these 2 particular pictures. For the 1st pic, as 
 <h3>Cooking Up Opportunities</h3>
 <img src="burner.png"/>
 
+<h3>Identify Two Orgs</h3>
+
 <h2>Weekly Reflections</h2>
 
 <h3>Week 1</h3>
