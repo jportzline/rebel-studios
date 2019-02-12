@@ -52,6 +52,11 @@ My thoughts as to why I picked these 2 particular pictures. For the 1st pic, as 
 <img src="burner.png"/>
 <br>
 <h3>Identify Two Orgs</h3>
+<ul>
+      <li><a href="https://meowwolf.com/"/>Meow Wolf</a></li>
+      <li>Problem Solver</li>
+      <li>Leader</li>
+   </ul>
 <br>
 <h2>Weekly Reflections</h2>
 
