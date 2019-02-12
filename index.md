@@ -54,8 +54,7 @@ My thoughts as to why I picked these 2 particular pictures. For the 1st pic, as 
 <h3>Identify Two Orgs</h3>
 <ul>
       <li><a href="https://meowwolf.com/"/>Meow Wolf</a></li>
-      <li>Problem Solver</li>
-      <li>Leader</li>
+      <li><a href="http://rebel-studios.co/"/>Rebel Studios</a></li>
    </ul>
 <br>
 <h2>Weekly Reflections</h2>
