@@ -48,6 +48,9 @@ Hello! My name James Portzline. I design graphics and websites for companies who
 <img src="2pics.png"/>
 My thoughts as to why I picked these 2 particular pictures. For the 1st pic, as I grow older and become complacent, and realize what I have learned a decade ago no longer applies to today’s demands for digital media. The advancement in the technology world whether it be the hardware and  more so tools in developing digital media will continue to evolve, and so should the skills needed as well. As for the 2nd picture, to quote an old phrase from Cervantes in Don Quixote “skies the limit”! I find myself wanting to develop and refine my current skill as well add new ones that will unlock new opportunities. 
 
+<h3>Cooking Up Opportunities</h3>
+<img src="burner.png"/>
+
 <h2>Weekly Reflections</h2>
 
 <h3>Week 1</h3>
