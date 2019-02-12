@@ -57,5 +57,6 @@ My first week of boot camp has been exciting and fun. Meet 7 other people whom I
 Second week of Deep Dive Digital Media - Ryan, Anthony and I joined to work together on the AR project for Garcia Auto Group. Had a few guest speakers such as former students (alumni – cohort 1 of DDDM) speak and present current projects they are working on. Started working with Vyond developing a commercial for my wife and I. Also, jumped into Unity to get a head start.
 
 <h3>Week 3</h3>
-Third week of Digital Media 
+Third week of Digital Media, we started learning how to create levels and test game play in Unity. Made a level using included pre-made portals, enemies, and pools of poison which proved to be very challenging during game play. Also, completed a concept design to use with AR (augmented reality) to present to the Garcia Automotive Group Representative the following week. 
+
 
